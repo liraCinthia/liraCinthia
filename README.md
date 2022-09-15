@@ -1,4 +1,4 @@
-### Hi there, I'm Cinthia 🦋
+### Hello! I'm Cinthia 🦋
 
 
 
