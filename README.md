@@ -1,4 +1,4 @@
-### Hello! I'm Cinthia 🦋 
+### Hello! I'm Cinthia  
 
 -  I’m currently learning js, html and css
 -  How to reach me: cliravieira@gmail.com
