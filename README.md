@@ -1,6 +1,6 @@
 ### Hello! I'm Cinthia  
 
--  I’m currently learning linguage C
+-  I’m currently learning language C
 -  How to reach me: cliravieira@gmail.com
 -  Pronouns: she/her
 
