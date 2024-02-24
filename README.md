@@ -1,4 +1,4 @@
-### Hello! I'm Cinthia  
+### Hello :)  
 
 -  I’m currently learning language C
 -  How to reach me: cliravieira@gmail.com
