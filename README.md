@@ -9,7 +9,6 @@
 
 <div align="center">
   <a href="https://github.com/liraCinthia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liraCinthia&show_icons=true&theme=panda&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liraCinthia&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
